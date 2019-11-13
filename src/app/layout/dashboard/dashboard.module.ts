@@ -26,6 +26,7 @@ import {FormsModule} from '@angular/forms';
         MatTableModule,
         MatButtonModule,
         MatIconModule,
+        MatTableModule,
         FormsModule,
         MatSlideToggleModule,
         FlexLayoutModule.withConfig({addFlexToParent: false})
